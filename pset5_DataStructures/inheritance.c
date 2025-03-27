@@ -1,4 +1,4 @@
-// Simulate genetic inheritance of blood type 模擬血型的基因遺傳
+// Simulate genetic inheritance of blood type 作業 模擬血型的基因遺傳 
 #define _DEFAULT_SOURCE
 #include <stdbool.h>
 #include <stdio.h>
